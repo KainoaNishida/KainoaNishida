@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![banner](/Users/kainoanishida/Desktop/kainoanishida.png)
+![banner](/kainoanishida.png)
 
 I'm a first year studying computer science and engineering at the University of California, Irvine.
 <!--
