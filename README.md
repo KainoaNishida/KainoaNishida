@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kainoa Nishida</h1>
-<h3 align="center">A first year university student pursuing a dual major in Computer Science and Engineering</h3>
+<h1 align="left">Aloha! 👋, I'm Kainoa Nishida</h1>
+<h3 align="left">I am a first year university student pursuing a dual major in Computer Science and Engineering</h3>
 
-- 🔭 I’m currently working on [GetInspired](https://github.com/ctc-uci)
+- 🔭 I’m currently working for Commit the Change(https://github.com/ctc-uci)
 
 - 🌱 I’m currently learning **frontend and backend development**
 
-- 📫 How to reach me **kainoanishida@gmail.com**
+- 📫 **kainoanishida@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/17Gw2RuVmTfjXVUchdF2eRU3DBRGczqVA2SEKs4-Eu0g/edit?usp=sharing](https://docs.google.com/document/d/17Gw2RuVmTfjXVUchdF2eRU3DBRGczqVA2SEKs4-Eu0g/edit?usp=sharing)
 
