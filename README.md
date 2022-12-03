@@ -1,8 +1,8 @@
-##### 
+###
 
 Kainoa Nishida
 
-### 
+##
 
 Computer Science and Engineering Major
 
