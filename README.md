@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kainoanishida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kainoa nishida" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kainoanishida4964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kainoa nishida" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kainoa Nishida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kainoa nishida" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Kainoa Nishida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kainoa nishida" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kainoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kainoa" height="30" width="40" /></a>
 </p>
 
