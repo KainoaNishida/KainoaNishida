@@ -1,6 +1,4 @@
-####
-
-Kainoa Nishida
+#### Kainoa Nishida
 
 ##
 
