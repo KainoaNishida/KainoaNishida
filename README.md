@@ -1,4 +1,8 @@
-![kainoanishida](https://user-images.githubusercontent.com/115957335/205415371-c8fe90e8-ea91-4501-bd52-664d6bebcfd5.png)
+##### Kainoa Nishida
+
+### Computer Science and Engineering Major
+
+##
 
 I'm a first year studying computer science and engineering at the University of California, Irvine.
 <!--
