@@ -1,8 +1,8 @@
-#### Kainoa Nishida
+# Kainoa Nishida
 
-# Computer Science and Engineering Major
+## Computer Science and Engineering Major
 
-# I'm a first year studying computer science and engineering at the University of California, Irvine.
+### I'm a first year studying computer science and engineering at the University of California, Irvine.
 <!--
 **KainoaNishida/KainoaNishida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
