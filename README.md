@@ -7,8 +7,6 @@
 
 - 📫  **kainoanishida@gmail.com**
 
-- 📄  Know about my experiences [resume](/Users/kainoanishida/Desktop/kainoa's resume.pdf)
-
 
 
 
