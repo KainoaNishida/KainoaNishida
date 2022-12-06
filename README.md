@@ -6,13 +6,13 @@ I am a first year university student pursuing a dual major in Computer Science a
 
 Let's get in contact!
 - **kainoanishida@gmail.com**
-- [(949) 246 - 6367][**9492466367**]
+- (949) 246 - 6367
 - [LinkedIn][linkedin]
 - [GitHub][github]
 
 [linkedin]: https://www.linkedin.com/in/kainoa-nishida-308b68253/
 [github]: https://github.com/KainoaNishida
-[committhechange]: [https://github.com/ctc-uci](https://ctc-uci.com/)
+[committhechange]: https://ctc-uci.com/
 
 
 
