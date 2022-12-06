@@ -12,7 +12,7 @@ Let's get in contact!
 
 [linkedin]: https://www.linkedin.com/in/kainoa-nishida-308b68253/
 [github]: https://github.com/KainoaNishida
-[committhechange]: https://github.com/ctc-uci
+[committhechange]: [https://github.com/ctc-uci](https://ctc-uci.com/)
 
 
 
