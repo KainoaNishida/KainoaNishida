@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/115957335/206072714-e651260c-ce98-4a7b-865b-7b0ee1ed0b9e.png)
 
 <h3 align="left">Aloha!! My name is Kainoa Nishida</h3>
 
