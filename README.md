@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/115957335/206072714-e651260c-ce98-4a7b-865b-7b0ee1ed0b9e.png)
 
-<h3 align="left">Aloha!! My name is **Kainoa Nishida** 👋</h3> 
+<h3 align="left">Aloha!! My name is [Kainoa Nishida] 👋</h3> 
 
 I am a first year university student pursuing a dual major in Computer Science and Engineering. Though I may be young, don't understimate my devleopmental skills 😉. I am currently a devloper for [Commit the Change][committhechange], meaning I work on the backend of projects to distribute to local non-profit organizations. I am currently working on creating a database in SQL to document the endangered Pismo Clam species in the Newport and Laguna area.
 
@@ -14,6 +14,7 @@ Let's get in contact!
 [linkedin]: https://www.linkedin.com/in/kainoa-nishida-308b68253/
 [github]: https://github.com/KainoaNishida
 [committhechange]: https://ctc-uci.com/
+[Kainoa Nishida]: **Kainoa Nishida**
 
 
 
