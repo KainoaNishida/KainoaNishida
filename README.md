@@ -13,13 +13,7 @@
 
 ## 🚀 **About Me**
 
-- **Computer Science & Mathematics Student** at UC Irvine (GPA: 3.95)  
-- **Software Engineer @ Commit the Change** — Delivered solutions for 500+ nonprofit users  
-- **ML Researcher @ Zhang Lab** — Developing deep learning pipelines for genomic LLMs
-
----
-
-## 💼 **Experience**
+- **Computer Science & Mathematics Student** at UC Irvine (GPA: 3.95)
 
 <div align="center">
 
@@ -27,9 +21,14 @@
 
 <img src="https://i0.wp.com/magzoid.com/wp-content/uploads/2025/05/amazon-rebrand-2025_dezeen_2364_col_1-1.webp?fit=2364%2C1330&ssl=1" alt="Amazon" width="80" height="45" />
 
-**💻 Software Development Engineer Intern @ Amazon** (Summer 2025)  \
+**💻 Software Development Engineer Intern @ Amazon** (Summer 2025) 
 
 </div>
+
+- **Software Engineer @ Commit the Change** — Delivered solutions for 500+ nonprofit users  
+- **ML Researcher @ Zhang Lab** — Developing deep learning pipelines for genomic LLMs
+
+
 
 ---
 
@@ -119,6 +118,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 **🏆 2nd Place – Caltech Hacks 2024**  
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KainoaNishida/calhacks)
 
 ---
