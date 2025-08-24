@@ -60,10 +60,7 @@
 
 ## 🧩 More Profiles
 - **LeetCode**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/kainoa?theme=dark&font=Source%20Code%20Pro&ext=activity)  
-
-- **Spotify Now Playing**  
-![Spotify](https://novatorem.vercel.app/api/spotify)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kainoa?theme=dark&font=Source%20Code%20Pro&ext=activity)
 
 ---
 
