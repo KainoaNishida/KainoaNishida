@@ -1,76 +1,159 @@
-![banner](https://user-images.githubusercontent.com/115957335/206072714-e651260c-ce98-4a7b-865b-7b0ee1ed0b9e.png)
-
-<h2 align="center">Aloha 🌺 I'm Kainoa Nishida 👋</h2>
-
-🎓 Student at UC Irvine studying **Computer Science & Mathematics (GPA 3.95)**.  
-💻 **Software Development Engineer Intern @ Amazon** (Summer 2025) — architected and shipped workflow automation using AWS Lambda, Bedrock, and S3, reducing high-severity issues by ~80% during beta and projected to save **72,000+ engineering hours annually**.  
-🌱 Former **Software Engineer @ Commit the Change**, delivering nonprofit solutions used by 500+ active users to several local and international non-profit organizations.  
-🔬 **Researcher @ Zhang Lab** — developing deep learning pipelines (VAE + ODEs, knowledge distillation for genomic LLMs) to accelerate single-cell RNA modeling.  
-
----
-
-## 🎮 Hobbies & Interests
-- 🤖 Machine Learning & AI research  
-- 🎮 Video Games (strategy & competitive)  
-- 🧗 Climbing & Bouldering  
-- 🏃 Running  
-- ⚽ Soccer (former competitive player)  
-- 🍳 Cooking & experimenting with new recipes  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/115957335/206072714-e651260c-ce98-4a7b-865b-7b0ee1ed0b9e.png" alt="banner" width="800" />
+  
+  # 🌺 Aloha! I'm Kainoa Nishida 👋
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kainoa-nishida/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kainoanishida.github.io/portfolio/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kainoanishida4964)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kainoanishida@gmail.com)
+</div>
 
 ---
 
-## ⚡ Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/-C++-333?logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333?logo=java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/-React-333?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-333?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-333?logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-333?logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?logo=mongodb&logoColor=47A248)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?logo=pytorch&logoColor=EE4C2C)
-![AWS](https://img.shields.io/badge/-AWS-333?logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?logo=kubernetes&logoColor=326CE5)
+## 🚀 **About Me**
+
+- **Computer Science & Mathematics Student** at UC Irvine (GPA: 3.95)  
+- **Software Engineer @ Commit the Change** — Delivered solutions for 500+ nonprofit users  
+- **ML Researcher @ Zhang Lab** — Developing deep learning pipelines for genomic LLMs
 
 ---
 
-## 🚀 Featured Projects
-- [**Sustainably**](https://github.com/KainoaNishida/calhacks): 🌱 A full-stack app + search engine for eco-friendly clothing, surfacing sustainability insights and ethical brands.  
-   🏆 **2nd Place – Caltech Hacks 2024**  
+## 💼 **Experience**
 
-- [**Agape**](https://github.com/KainoaNishida/Agape): ❤️ A community platform built at **IrvineHacks**, designed to connect people with volunteer opportunities and foster local engagement.  
-
----
-
-## 📊 GitHub & Other Stats
 <div align="center">
 
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KainoaNishida&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KainoaNishida&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=KainoaNishida&theme=tokyonight&hide_border=false)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KainoaNishida&theme=tokyonight)
+### **Current Role**
+
+<img src="https://i0.wp.com/magzoid.com/wp-content/uploads/2025/05/amazon-rebrand-2025_dezeen_2364_col_1-1.webp?fit=2364%2C1330&ssl=1" alt="Amazon" width="80" height="45" />
+
+**💻 Software Development Engineer Intern @ Amazon** (Summer 2025)  \
 
 </div>
 
 ---
 
-## 🧩 More Profiles
-- **LeetCode**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/kainoa?theme=dark&font=Source%20Code%20Pro&ext=activity)
+## 🎮 **Hobbies & Interests**
+
+<div align="center">
+
+**🎯 Gaming & Entertainment**  
+
+<img src="https://img.shields.io/badge/League_of_Legends-FF6B35?style=for-the-badge&logo=league-of-legends&logoColor=white" alt="LoL" />
+<img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant" />
+<img src="https://img.shields.io/badge/Animal_Crossing-95C92E?style=for-the-badge&logo=nintendo&logoColor=white" alt="AC" />
+<img src="https://img.shields.io/badge/Roblox-00FF2D?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+
+**🎵 Music & Creativity**  
+
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+<img src="https://img.shields.io/badge/Music_Production-FF6B6B?style=for-the-badge&logo=apple-music&logoColor=white" alt="Music" />
+
+**🏃 Lifestyle & Fitness**  
+
+<img src="https://img.shields.io/badge/Climbing-8B4513?style=for-the-badge&logo=climbing&logoColor=white" alt="Climbing" />
+<img src="https://img.shields.io/badge/Running-FF6B35?style=for-the-badge&logo=running&logoColor=white" alt="Running" />
+<img src="https://img.shields.io/badge/Soccer-228B22?style=for-the-badge&logo=soccer&logoColor=white" alt="Soccer" />
+<img src="https://img.shields.io/badge/Cooking-FF6B6B?style=for-the-badge&logo=chef&logoColor=white" alt="Cooking" />
+<img src="https://img.shields.io/badge/Reading-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="Reading" />
+
+**🏆 CS Passions**
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-00D4FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white" alt="ML" />
+<img src="https://img.shields.io/badge/Algorithmic_Trading-00D4FF?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Trading" />
+<img src="https://img.shields.io/badge/Competitive_Programming-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white" alt="CP" />
+
+</div>
 
 ---
 
-## 📬 Let’s Connect!
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?logo=vercel&logoColor=white)](https://kainoanishida.github.io/portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kainoa-nishida/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://github.com/KainoaNishida)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/your-channel)  
-📧 **[Email Me](mailto:kainoanishida@gmail.com)**  
+## ⚡ **Tech Stack**
+
+<div>
+
+**Programming Languages**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Web Development**  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Databases**  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**AI & Machine Learning**  
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Cloud & DevOps**  
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
 
 ---
 
-[committhechange]: https://ctc-uci.com/
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+### 🌱 **Sustainably**
+> A full-stack app + search engine for eco-friendly clothing, surfacing sustainability insights and ethical brands.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**🏆 2nd Place – Caltech Hacks 2024**  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KainoaNishida/calhacks)
+
+---
+
+### ❤️ **Agape**
+> A community platform built at IrvineHacks, designed to connect people with volunteer opportunities and foster local engagement.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KainoaNishida/Agape)
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KainoaNishida&theme=tokyo-night&hide_border=true&area=true&area_color=1f1f23)
+![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KainoaNishida&show_icons=true&theme=tokyonight&hide=contribs,issues&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KainoaNishida&layout=compact&theme=tokyonight&hide=html,css,scss&langs_count=6)
+![GitHub Streak](https://streak-stats.demolab.com?user=KainoaNishida&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+---
+
+## 🎯 **Leetcode**
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kainoa?theme=dark&font=Source%20Code%20Pro&ext=activity&hide=ranking)
+
+</div>
