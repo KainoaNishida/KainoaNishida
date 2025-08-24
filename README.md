@@ -34,7 +34,7 @@
 
 <div align="center">
 
-**🎯 Gaming & Entertainment**  
+**Gaming**  
 
 <img src="https://img.shields.io/badge/League_of_Legends-FF6B35?style=for-the-badge&logo=league-of-legends&logoColor=white" alt="LoL" />
 <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant" />
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Roblox-00FF2D?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
 
 
-**🎵 Music & Creativity**  
+**🎵 Music**  
 
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 <img src="https://img.shields.io/badge/Music_Production-FF6B6B?style=for-the-badge&logo=apple-music&logoColor=white" alt="Music" />
