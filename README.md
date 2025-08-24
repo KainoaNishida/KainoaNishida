@@ -29,7 +29,6 @@
 - **ML Researcher @ Zhang Lab** — Developing deep learning pipelines for genomic LLMs
 
 
-
 ---
 
 ## 🎮 **Hobbies & Interests**
@@ -142,9 +141,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KainoaNishida&theme=tokyo-night&hide_border=true&area=true&area_color=1f1f23)
 ![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KainoaNishida&show_icons=true&theme=tokyonight&hide=contribs,issues&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KainoaNishida&layout=compact&theme=tokyonight&hide=html,css,scss&langs_count=6)
-![GitHub Streak](https://streak-stats.demolab.com?user=KainoaNishida&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
