@@ -2,11 +2,20 @@
 
 <h2 align="center">Aloha 🌺 I'm Kainoa Nishida 👋</h2>
 
-🎓 Rising senior at UC Irvine studying **Computer Science & Mathematics (GPA 3.95)**.  
+🎓 Student at UC Irvine studying **Computer Science & Mathematics (GPA 3.95)**.  
 💻 **Software Development Engineer Intern @ Amazon** (Summer 2025) — architected and shipped workflow automation using AWS Lambda, Bedrock, and S3, reducing high-severity issues by ~80% during beta and projected to save **72,000+ engineering hours annually**.  
-🌱 Former **Technical Lead @ Commit the Change**, leading 12 developers + 5 designers to deliver nonprofit solutions used by 500+ active users.  
+🌱 Former **Software Engineer @ Commit the Change**, delivering nonprofit solutions used by 500+ active users to several local and international non-profit organizations.  
 🔬 **Researcher @ Zhang Lab** — developing deep learning pipelines (VAE + ODEs, knowledge distillation for genomic LLMs) to accelerate single-cell RNA modeling.  
-🧠 Always exploring — from algorithms and AI to coffee brewing ☕ and soccer ⚽.  
+
+---
+
+## 🎮 Hobbies & Interests
+- 🤖 Machine Learning & AI research  
+- 🎮 Video Games (strategy & competitive)  
+- 🧗 Climbing & Bouldering  
+- 🏃 Running  
+- ⚽ Soccer (former competitive player)  
+- 🍳 Cooking & experimenting with new recipes  
 
 ---
 
@@ -30,12 +39,10 @@
 ---
 
 ## 🚀 Featured Projects
-- [**Fabflix**](https://github.com/your-repo): 🎬 A full-stack movie e-commerce platform deployed on AWS with Kubernetes, MySQL replication, and Apache load balancing. Features include secure login, cart checkout, full-text search with caching, and reCAPTCHA bot protection.  
-
-- [**Sustainably**](https://github.com/your-repo): 🌱 A full-stack app + search engine for eco-friendly clothing, surfacing sustainability insights and ethical brands.  
+- [**Sustainably**](https://github.com/KainoaNishida/calhacks): 🌱 A full-stack app + search engine for eco-friendly clothing, surfacing sustainability insights and ethical brands.  
    🏆 **2nd Place – Caltech Hacks 2024**  
 
-- [**Agape**](https://github.com/your-repo): ❤️ A community platform built at **IrvineHacks**, designed to connect people with volunteer opportunities and foster local engagement.  
+- [**Agape**](https://github.com/KainoaNishida/Agape): ❤️ A community platform built at **IrvineHacks**, designed to connect people with volunteer opportunities and foster local engagement.  
 
 ---
 
@@ -53,20 +60,10 @@
 
 ## 🧩 More Profiles
 - **LeetCode**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Source%20Code%20Pro&ext=activity)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kainoa?theme=dark&font=Source%20Code%20Pro&ext=activity)  
 
 - **Spotify Now Playing**  
 ![Spotify](https://novatorem.vercel.app/api/spotify)  
-
----
-
-## 🎮 Hobbies & Interests
-- 🤖 Machine Learning & AI research  
-- 🎮 Video Games (strategy & competitive)  
-- 🧗 Climbing & Bouldering  
-- 🏃 Running  
-- ⚽ Soccer (former competitive player)  
-- 🍳 Cooking & experimenting with new recipes  
 
 ---
 
