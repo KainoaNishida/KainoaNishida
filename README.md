@@ -42,10 +42,12 @@
 <img src="https://img.shields.io/badge/Animal_Crossing-95C92E?style=for-the-badge&logo=nintendo&logoColor=white" alt="AC" />
 <img src="https://img.shields.io/badge/Roblox-00FF2D?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
 
+
 **🎵 Music & Creativity**  
 
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
 <img src="https://img.shields.io/badge/Music_Production-FF6B6B?style=for-the-badge&logo=apple-music&logoColor=white" alt="Music" />
+
 
 **🏃 Lifestyle & Fitness**  
 
@@ -54,6 +56,7 @@
 <img src="https://img.shields.io/badge/Soccer-228B22?style=for-the-badge&logo=soccer&logoColor=white" alt="Soccer" />
 <img src="https://img.shields.io/badge/Cooking-FF6B6B?style=for-the-badge&logo=chef&logoColor=white" alt="Cooking" />
 <img src="https://img.shields.io/badge/Reading-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="Reading" />
+
 
 **🏆 CS Passions**
 
