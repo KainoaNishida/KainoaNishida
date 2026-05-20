@@ -6,7 +6,7 @@ CS + Math @ UC Irvine · Software Engineer · ML Researcher
 - Portfolio: https://kainoanishida.github.io/portfolio/  
 - LinkedIn: https://www.linkedin.com/in/kainoa-nishida/  
 - YouTube: https://www.youtube.com/@kainoanishida4964  
-- Email: kainoa.nishida@example.com
+- Email: kainoanishida@gmail.com
 
 ---
 
