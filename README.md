@@ -30,10 +30,10 @@ class Kainoa {
   };
   interests = ["AI for science", "algorithms", "quant/trading"];
   links = {
-    portfolio: "https://kainoanishida.github.io/portfolio/",
+    portfolio: "https://kainoanishida.com",
     linkedin: "https://www.linkedin.com/in/kainoa-nishida/",
     youtube: "https://www.youtube.com/@kainoanishida4964",
-    email: "mailto:kainoa.nishida@example.com",
+    email: "mailto:kainoanishida@gmail.com",
   };
 }
 export const kai = new Kainoa();
