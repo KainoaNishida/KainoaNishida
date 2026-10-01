@@ -1,39 +1,9 @@
-# 🌺 Aloha! I'm Kainoa Nishida
+# hi, i'm kai
 
-CS + Math @ UC Irvine · Software Engineer · ML Researcher
+<img src="https://media1.tenor.com/m/hGe0J89tuW0AAAAC/nod-cat-hyper.gif" alt="Nodding cat" width="150" />
 
-**Links:**  
-- Portfolio: [https://kainoanishida.github.io/portfolio/  ](https://www.kainoanishida.com/)
-- LinkedIn: https://www.linkedin.com/in/kainoa-nishida/  
-- YouTube: https://www.youtube.com/@kainoanishida4964  
-- Email: kainoanishida@gmail.com
-
----
-
-## 🧩 About Me (as code)
-
-```ts
-class Kainoa {
-  pronouns = ["he", "him"];
-  school = { uni: "UC Irvine", majors: ["CS", "Math"], gpa: 3.95 };
-  roles = [
-    { title: "SDE Intern", org: "Amazon", when: "Summer 2025" },
-    { title: "Software Engineer", org: "Commit the Change" },
-    { title: "ML Researcher", org: "Zhang Lab (UCI)" },
-  ];
-  stack = {
-    languages: ["Python", "C++", "Java", "TypeScript", "SQL"],
-    web: ["React", "Next.js", "Node.js"],
-    db: ["PostgreSQL", "MySQL", "MongoDB"],
-    ml: ["PyTorch", "TensorFlow", "sklearn"],
-    infra: ["AWS", "Docker", "Kubernetes"],
-  };
-  interests = ["AI for science", "algorithms", "quant/trading"];
-  links = {
-    portfolio: "https://kainoanishida.com",
-    linkedin: "https://www.linkedin.com/in/kainoa-nishida/",
-    youtube: "https://www.youtube.com/@kainoanishida4964",
-    email: "mailto:kainoanishida@gmail.com",
-  };
-}
-export const kai = new Kainoa();
+- Building applications.
+- Researching machine learning for genomics.
+- Usually playing soccer, hiking, or finding a new café.
+- Reach me: [email](mailto:kainoanishida@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kainoa-nishida/)
+- Follow my blog and learn more about who I am at my personal website: [Portfolio](https://www.kainoanishida.com/)
